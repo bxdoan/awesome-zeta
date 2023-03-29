@@ -36,7 +36,7 @@ Other ways to get test assets:
 The following are official links
 
 - [Website](https://www.zetachain.com/)
-- [GitHub](https://github.com/matter-labs)
+- [GitHub](https://github.com/zeta-chain)
 - [Twitter](https://twitter.com/zetablockchain)
 - [Discord](https://discord.com/invite/zetachain)
 - [Telegram](https://t.me/zetachainofficial)
