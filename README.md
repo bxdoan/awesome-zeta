@@ -1,3 +1,5 @@
+![](./zetachain-logo.png)
+
 # awesome-zetachain
 
 ## Mainnet
