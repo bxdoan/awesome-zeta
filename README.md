@@ -8,6 +8,7 @@
 - [Tutorials](https://www.zetachain.com/docs/developers/overview/) - Official Tutorials
 - [Nodes](https://www.zetachain.com/docs/nodes/technical-requirements/)
 - [Whitepaper](https://www.zetachain.com/whitepaper.pdf)
+- [Explorer](https://explorer.zetachain.com/)
 
 ## Testnet
 
