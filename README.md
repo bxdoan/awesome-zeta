@@ -1,6 +1,10 @@
 ![](./zetachain-logo.png)
 
 # awesome-zetachain
+All on One Chain - All of Crypto
+
+ZetaChain is the world's first and only public blockchain that connects all other blockchains. Access all of your 
+assets, data, and liquidity in a single place, securely.
 
 ## Mainnet
 
